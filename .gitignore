@@ -1,0 +1,84 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and debug
+*.log
+logs/
+*.pid
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Pytest / Coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.cache/
+
+# Mypy / Pylint / Type Checking
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# FastAPI specific
+# Auto-generated OpenAPI or static files (if any)
+openapi.json
+
+# Uvicorn reload cache
+*.reload
+
+# Database files (SQLite, etc.)
+*.db
+*.sqlite3
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Docker
+docker-compose.override.yml
+.docker/
+*.bak
+
+# Reports or temporary outputs
+capgemini/
+
+# VS Code local history
+.history/
+
+# Node (if using frontend with FastAPI)
+node_modules/
+package-lock.json
+npm-debug.log
+yarn-error.log
