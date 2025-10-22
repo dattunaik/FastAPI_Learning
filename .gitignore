@@ -73,6 +73,7 @@ docker-compose.override.yml
 
 # Reports or temporary outputs
 capgemini/
+bio_design_ai/
 
 # VS Code local history
 .history/
