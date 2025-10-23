@@ -16,6 +16,7 @@ A modular learning project demonstrating **FastAPI** concepts — from basic end
 | `6_dependency_injection/` | Advanced dependency injection patterns. |
 | `7_config_management/` | Centralized configuration management using Pydantic. |
 | `8_Authentication/` | JWT & API Key authentication examples (`8.1 JWT`, `8.2 API KEYS`). |
+| `9_Testing/` | Testing using pytest and TestClient (`Unit_Testing`, `Integration_Testing`). |
 | `main.py` | Root FastAPI app entry point (optional depending on setup). |
 | `.gitignore` | Directories and files ignored by Git. |
 | `README.md` | Project documentation. |
